@@ -8,4 +8,4 @@ OR users_idusers IN
 	FROM follow
 	WHERE idfollower = 27 
 )
-ORDER BY twitt_create ASC; 
+ORDER BY twitt_create DESC;
