@@ -21,4 +21,4 @@
 
 ## how-to-connect
 
-``shell> mysql --user=root --password= mevtwitter-sql``
+``shell> mysql --user=root --password= mevtwitter``
